@@ -10,7 +10,6 @@
 #include <opencv2/videoio.hpp>
 #include <opencv2/video.hpp>
 #include <opencv2/tracking/tracking.hpp>
-#include "CascadeDetector.h"
 
 using namespace std;
 
